@@ -16,7 +16,7 @@ class qa_html_theme_layer extends qa_html_theme_base
     function head_css() // add a Javascript file from plugin directory
     {
         $this-> output('<link rel="stylesheet" href="'.
-            QA_HTML_THEME_LAYER_URLTOROOT.'welcome-widget.css'.'?<?php echo time(); ?>" TYPE="text/css">');
+            QA_HTML_THEME_LAYER_URLTOROOT.'welcome-widget.css'.'" TYPE="text/css">');
         $this-> output('<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">');
 
         parent::head_css();
