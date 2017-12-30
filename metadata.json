@@ -1,13 +1,13 @@
 {
     "name": "Welcome Widget",
-    "uri": "https://github.com/gurjyot/Welcome-Widget",
+    "uri": "https://github.com/PublicityPort/Welcome-Widget",
     "description": "Adds a welcome widget to your Q2A website",
-    "version": "0.9",
-    "date": "2016-12-07",
-    "author": "Gurjyot Singh",
+    "version": "1.0.1",
+    "date": "2017-12-20",
+    "author": "Publicity Port",
     "author_uri": "Web address for plugin author",
     "license": "GPLv2",
-    "update_uri": "https://raw.githubusercontent.com/gurjyot/Welcome-Widget/master/metadata.json",
-    "min_q2a": "1.7",
+    "update_uri": "https://raw.githubusercontent.com/PublicityPort/Welcome-Widget/master/metadata.json",
+    "min_q2a": "1.7.5",
     "min_php": "5.2"
 }

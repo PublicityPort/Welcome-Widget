@@ -20,3 +20,10 @@ qa_register_plugin_layer(
   'qa-welcome-widget-layer.php', // PHP file containing layer
   'Welcome Widget Layer' // human-readable name of layer
 );
+
+qa_register_plugin_module(
+  'module', 
+  'qa-ask-with-tags-admin.php', 
+  'qa_ask_with_tags_admin', 
+  'Q2A Welcome Widget Configuration'
+);

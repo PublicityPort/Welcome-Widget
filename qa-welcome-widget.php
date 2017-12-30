@@ -34,17 +34,6 @@ class qa_welcome_widget {
 											</tr>
 										</table>
 								</div>
-							<ul class="ww-topnav" id="ww-myTopnav">
-									<li><p>'.qa_lang_html('plugin_ww/nav_title').'</p></li>
-									<li><a href="/questions">'.qa_lang_html('plugin_ww/first_nav').'</a></li>
-									<li><a href="/hot">'.qa_lang_html('plugin_ww/second_nav').'</a></li>
-									<li><a href="/questions?sort=votes">'.qa_lang_html('plugin_ww/third_nav').'</a></li>
-									<li><a href="questions?sort=answers">'.qa_lang_html('plugin_ww/fourth_nav').'</a></li>
-									<li><a href="questions?sort=views">'.qa_lang_html('plugin_ww/fifth_nav').'</a></li>
-									<li class="icon">
-									    <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a>
-									</li>
-								</ul>
 							</div>');
     }
 }
