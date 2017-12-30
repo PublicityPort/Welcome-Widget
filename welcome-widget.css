@@ -5,14 +5,15 @@
 	margin: 0px 0px 5px 0px;
 }
 .ww-icons-wrapper{
-	padding: 0px 10px;
+	padding: 9px 10px;
 	border-bottom: 1px dotted #999999;
 }
 #ww-heading{
 	margin: 0px 20px;
 	text-align: center;
-	font-size: 300%;
-	font-weight: 700;
+	font-size: 227%;
+	/*font-weight: 700;*/
+	padding: 3px 0 8px 0;
 }
 .ww-wrapper p{
 	color: white;

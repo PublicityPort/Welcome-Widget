@@ -23,7 +23,7 @@ qa_register_plugin_layer(
 
 qa_register_plugin_module(
   'module', 
-  'qa-ask-with-tags-admin.php', 
-  'qa_ask_with_tags_admin', 
+  'qa-welcome-widget-admin.php', 
+  'qa_welcome_widget_admin', 
   'Q2A Welcome Widget Configuration'
 );
